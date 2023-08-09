@@ -11,7 +11,7 @@ Apart from the view and hover capabilities, the users can also filter based on c
 
 ## Workflow
 ![Data visualization and engineering](<images/Data_Visualization_and_Engineering.jpg>)
-<p>
+<br>
 ![Metrics](<images/Metrics.jpg>)
 
 ## Results
